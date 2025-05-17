@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spaceship Game
 
 **Spaceship Game** is a 2D arcade-style game built in Unity where you pilot a spaceship through space, dodging meteors (boulders) and collecting energy orbs to survive. Progress through three levels, each with a unique spaceship model designed in Blender.
@@ -26,3 +27,6 @@ Navigate a spaceship in a top-down 2D view, avoiding boulders and collecting orb
 ## Play Now
 
 Play the game here: [Spaceship Game](https://mekoraoulifard.github.io/Spaceship-/)
+=======
+# Spaceship-
+>>>>>>> 4e7eae5da93bd6dbc8a020a1e0e4a0a932676811
